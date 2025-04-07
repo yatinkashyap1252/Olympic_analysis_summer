@@ -138,8 +138,8 @@ The dataset used in this analysis contains information about:
 
 ## 👨‍💻 Author
 
-- GitHub: [@yatinkashyap1252](https://github.com/yatinkashyap1252)
-- LinkedIn: [Your yatinkashyap](https://www.linkedin.com/in/yatin-kashyap-96a7412b6/)
+- GitHub: [yatinkashyap1252](https://github.com/yatinkashyap1252)
+- LinkedIn: [yatinkashyap](https://www.linkedin.com/in/yatin-kashyap-96a7412b6/)
 - Email: yatinkashyap1252@gmail.com
 
 ---
