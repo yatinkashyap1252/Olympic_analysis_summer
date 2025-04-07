@@ -22,12 +22,11 @@ olympic-analysis/
 ├── helper.py                        # Utility/helper functions
 ├── overall_analysis.py              # General analysis across all editions
 ├── preprocessor.py                  # Data cleaning and preprocessing
-│
-├── screenshots/                     # Visualizations and plots
-│   ├── Screenshot 2025-04-06 001711.png
-│   ├── Screenshot 2025-04-06 001817.png
-│   ├── Screenshot 2025-04-06 001842.png
-│   └── ... (more screenshots)
+├
+├── Screenshot 2025-04-06 001711.png # Visualizations and plots
+├── Screenshot 2025-04-06 001817.png
+├── Screenshot 2025-04-06 001842.png
+└── ... (more screenshots)
 │
 ├── README.md                        # Project documentation (this file)
 ```
@@ -71,10 +70,10 @@ olympic-analysis/
 
 ### Sample Visualizations from the Project
 
-<img src="screenshots/Screenshot%202025-04-06%20001711.png" width="400" />
-<img src="screenshots/Screenshot%202025-04-06%20001817.png" width="400" />
-<img src="screenshots/Screenshot%202025-04-06%20001842.png" width="400" />
-<img src="screenshots/Screenshot%202025-04-06%20001910.png" width="400" />
+<img src="Screenshot%202025-04-06%20001711.png" width="400" />
+<img src="Screenshot%202025-04-06%20001817.png" width="400" />
+<img src="Screenshot%202025-04-06%20001842.png" width="400" />
+<img src="Screenshot%202025-04-06%20001910.png" width="400" />
 
 ---
 
