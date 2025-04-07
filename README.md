@@ -71,10 +71,10 @@ olympic-analysis/
 
 ### Sample Visualizations from the Project
 
-<img src="screenshots/Screenshot 2025-04-06 001711.png" width="400" />
-<img src="screenshots/Screenshot 2025-04-06 001817.png" width="400" />
-<img src="screenshots/Screenshot 2025-04-06 001842.png" width="400" />
-<img src="screenshots/Screenshot 2025-04-06 001910.png" width="400" />
+<img src="screenshots/Screenshot%202025-04-06%20001711.png" width="400" />
+<img src="screenshots/Screenshot%202025-04-06%20001817.png" width="400" />
+<img src="screenshots/Screenshot%202025-04-06%20001842.png" width="400" />
+<img src="screenshots/Screenshot%202025-04-06%20001910.png" width="400" />
 
 ---
 
